@@ -1,8 +1,11 @@
 
 
 body{
+   background-attachment: fixed;
+    background-size: 80vh 80vw;
     color: black;
-
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 button {
@@ -21,4 +24,5 @@ input[type=text], input[type=password], input[type=email],input[type=radio],inpu
     margin: 5px 0 22px 0;
     display: inline-block;
     border: none;
+   
     
